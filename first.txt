@@ -1,2 +1,3 @@
 gitの勉強
 textの編集①
+textの編集②
